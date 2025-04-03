@@ -16344,10 +16344,10 @@
         ]
       },
       {
-        "value": "&kp",
+        "value": "Custom",
         "params": [
           {
-            "value": "I",
+            "value": "&thumb LAYER_World I",
             "params": []
           }
         ]
