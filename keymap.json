@@ -15823,25 +15823,25 @@
         "value": "&kp",
         "params": [
           {
-            "value": "LSHFT",
-            "params": []
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
-            "value": "LALT",
-            "params": []
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
             "value": "V",
+            "params": []
+          }
+        ]
+      },
+      {
+        "value": "&kp",
+        "params": [
+          {
+            "value": "G",
+            "params": []
+          }
+        ]
+      },
+      {
+        "value": "&kp",
+        "params": [
+          {
+            "value": "T",
             "params": []
           }
         ]
@@ -15985,7 +15985,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "LCTRL",
+            "value": "LSHIFT",
             "params": []
           }
         ]
@@ -15994,7 +15994,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "RET",
+            "value": "LALT",
             "params": []
           }
         ]
